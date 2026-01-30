@@ -1,9 +1,3 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/alitimbo/alitimbo/main/alipro.png" />
-</div>
-
----
-
 ### 👋 Salut, je suis Ali TIMBO !
 
 **Développeur Fullstack & Mobile**, je navigue entre la création d'applications natives performantes et le développement de solutions web sur mesure.
@@ -41,17 +35,6 @@
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="Actions" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
   <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS" />
-</div>
-
----
-
-### 📊 Mes Stats GitHub
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alitimbo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alitimbo&layout=compact&theme=tokyonight&langs_count=8"/>
-  </a>
 </div>
 
 ---
