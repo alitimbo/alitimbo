@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./alipro.png" width="100%" alt="Banner" />
+  <img src="./alipro.png" width="100%" alt="Ali Timbo" />
 </div>
 
 ---
