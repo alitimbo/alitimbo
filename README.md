@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./alipro.png" width="100%" alt="Ali Timbo" />
+  <img src="https://raw.githubusercontent.com/alitimbo/alitimbo/main/alipro.png" />
 </div>
 
 ---
