@@ -1,11 +1,16 @@
 ### 👋 Salut, je suis Ali TIMBO !
 
-**Développeur Fullstack & Mobile**, je navigue entre la création d'applications natives performantes et le développement de solutions web sur mesure.
+Développeur Full-Stack et Mobile senior, j’accompagne la conception et la mise en production de plateformes SaaS, d’applications web et d’applications mobiles.
 
-* 📱 Expert en **Mobile Cross-Platform** (React Native / Expo).
-* 💻 Développeur **Web Fullstack** (React, Next.js, Node.js).
-* ☁️ Compétence **Cloud & DevOps** sur Google Cloud Platform (GCP).
-* 🎨 Spécialiste **WordPress Avancé** (Création de thèmes & plugins sur mesure).
+Mon expertise principale couvre React, Next.js, React Native/Expo, Node.js, NestJS, PostgreSQL, Prisma et Redis. J’interviens également sur l’industrialisation des déploiements avec Docker, GitHub Actions, Nginx et les infrastructures VPS.
+
+Au cours de mon parcours, j’ai conçu et livré plusieurs produits dans les domaines du paiement, du Wi-Fi public, de la gestion patrimoniale, des services administratifs et des marketplaces. J’interviens sur l’ensemble du cycle produit : analyse du besoin, architecture, développement, intégration d’API, sécurité, CI/CD et mise en production.
+
+Au-delà du code, je porte une attention particulière à la fiabilité, à l’expérience utilisateur et à la capacité du produit à répondre à un véritable besoin commercial.
+
+Compétences principales : React, Next.js, TypeScript, React Native, Expo, Node.js, NestJS, PostgreSQL, Prisma, Redis, Docker, Nginx et GitHub Actions.
+
+Ouvert aux opportunités de Senior Full-Stack Developer, Mobile Engineer, Lead Developer et Technical Product Engineer, en présentiel ou à distance.
 
 ---
 
